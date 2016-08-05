@@ -1,0 +1,14 @@
+layout_spectrum: 0.9164707337040454
+typography_spectrum: 0.8323769411072135
+color:
+  brandStrength: 0.8281099433079362
+  lightness: 0.047622837824746966
+  saturation: 0.8647732001263648
+  rhythmicContrast: 0.6602835825178772
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: burn.it.all.down
